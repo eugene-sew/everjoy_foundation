@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/everjoy_foundation/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/everjoy_foundation/static/js/main.023f326a.chunk.js",
+    "main.js.map": "/everjoy_foundation/static/js/main.023f326a.chunk.js.map",
+    "runtime-main.js": "/everjoy_foundation/static/js/runtime-main.166655e4.js",
+    "runtime-main.js.map": "/everjoy_foundation/static/js/runtime-main.166655e4.js.map",
+    "static/js/2.ca9690a4.chunk.js": "/everjoy_foundation/static/js/2.ca9690a4.chunk.js",
+    "static/js/2.ca9690a4.chunk.js.map": "/everjoy_foundation/static/js/2.ca9690a4.chunk.js.map",
+    "index.html": "/everjoy_foundation/index.html",
+    "precache-manifest.4512bbed0fd7d0ff2b0c495f79a50371.js": "/everjoy_foundation/precache-manifest.4512bbed0fd7d0ff2b0c495f79a50371.js",
+    "service-worker.js": "/everjoy_foundation/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/everjoy_foundation/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ca9690a4.chunk.js.LICENSE.txt": "/everjoy_foundation/static/js/2.ca9690a4.chunk.js.LICENSE.txt",
+    "static/media/favicon.svg": "/everjoy_foundation/static/media/favicon.fe3ea178.svg",
+    "static/media/head.jpg": "/everjoy_foundation/static/media/head.e62422a0.jpg",
+    "static/media/homecard1i.jpg": "/everjoy_foundation/static/media/homecard1i.710a3f96.jpg",
+    "static/media/homecard2i.jpg": "/everjoy_foundation/static/media/homecard2i.43d8e368.jpg",
+    "static/media/homecard3i.jpg": "/everjoy_foundation/static/media/homecard3i.dcdf9dda.jpg",
+    "static/media/slide1.jpg": "/everjoy_foundation/static/media/slide1.685029e3.jpg",
+    "static/media/slide2.jpg": "/everjoy_foundation/static/media/slide2.05d44fac.jpg",
+    "static/media/slide3.jpg": "/everjoy_foundation/static/media/slide3.35ddbbcb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.166655e4.js",
+    "static/js/2.ca9690a4.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.023f326a.chunk.js"
+  ]
+}
